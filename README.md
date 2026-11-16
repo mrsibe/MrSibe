@@ -20,7 +20,7 @@
 
 ## 联系我
 
-[博客](https://mrsibe.top)
-[X](https://x.com/Mr_Sibei)
-[B站](https://space.bilibili.com/386324877)
-公众号「西贝茶馆」
+- [博客](https://mrsibe.top)
+- [X](https://x.com/Mr_Sibei)
+- [B站](https://space.bilibili.com/386324877)
+- 公众号「西贝茶馆」
